@@ -45,6 +45,7 @@ xn--al-lka.com
 yourgunnalovetraining.com
 
 # Microsoft (Defender Attack Simulator)
+# https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started
 attemplate.com
 bankmenia.com
 bankmenia.de
